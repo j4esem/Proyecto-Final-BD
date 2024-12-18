@@ -4,7 +4,9 @@
 
 1. [Introducción](#introducción)  
 2. [Instalaciones](#instalaciones)   
-3. [Nuestros sistemas RAG](#nuestros-sistemas-rag)  
+3. [Nuestros sistemas RAG](#nuestros-sistemas-rag)
+4. [GUI RAG de pdf](#gui-rag-de-pdf)
+5. [RAG Mongo Atlas](#rag-mongo-atlas)
 
 ## Introducción
 Este proyecto tiene como objetivo crear un sistema RAG. Un sistema RAG está formado por datos (en nuestro caso los sacamos de dos formas: 
